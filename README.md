@@ -1,6 +1,6 @@
 # Conditional Image Synthesis With Auxiliary Classifier GANs
 This project is from [ACGAN-PyTorch](https://github.com/clvrai/ACGAN-PyTorch).
-Just fix the code for implementing correctly. (PyTorch version)
+Just fix the code for implementing correctly. (PyTorch version)</br>
 Also, add the image generation code `generate_image.py`, if the checkpoint exists.
 
 
@@ -20,6 +20,7 @@ The sample generated images from CIFAR-10 dataset.
 <p align="center">
     <img src="figs/fake_samples_epoch_499.png" height="360">
 </p>
+
 ## Prerequisites
 
 - Python 3.8.5
