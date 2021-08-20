@@ -1,0 +1,5 @@
+outputs*
+*.pyc
+*.sw[po]
+
+./training_data/*
